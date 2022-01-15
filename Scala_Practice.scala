@@ -87,7 +87,8 @@ object Scala_Practice {
 
     print("Number range from 100 to 110 inclusive = " + (100 to 110).mkString(" "))
   }
-
+  //11.
+  def Q11():Unit = {}
 
   def main(args: Array[String]): Unit = {
     Q1
